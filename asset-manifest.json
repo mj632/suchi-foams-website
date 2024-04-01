@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66715720.css",
+    "main.js": "/static/js/main.68749775.js",
+    "static/js/453.60affa6c.chunk.js": "/static/js/453.60affa6c.chunk.js",
+    "static/media/suchi-foam-logo.png": "/static/media/suchi-foam-logo.ba19f22362284d90593c.png",
+    "index.html": "/index.html",
+    "main.66715720.css.map": "/static/css/main.66715720.css.map",
+    "main.68749775.js.map": "/static/js/main.68749775.js.map",
+    "453.60affa6c.chunk.js.map": "/static/js/453.60affa6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66715720.css",
+    "static/js/main.68749775.js"
+  ]
+}
