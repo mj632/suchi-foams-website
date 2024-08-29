@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/suchi-foams-website/static/js/main.e406791b.js",
+    "main.js": "/suchi-foams-website/static/js/main.e30c1714.js",
     "index.html": "/suchi-foams-website/index.html",
-    "main.e406791b.js.map": "/suchi-foams-website/static/js/main.e406791b.js.map"
+    "main.e30c1714.js.map": "/suchi-foams-website/static/js/main.e30c1714.js.map"
   },
   "entrypoints": [
-    "static/js/main.e406791b.js"
+    "static/js/main.e30c1714.js"
   ]
 }
