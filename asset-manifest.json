@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/suchi-foams-website/static/css/main.66715720.css",
-    "main.js": "/suchi-foams-website/static/js/main.fa05b10c.js",
-    "static/js/453.60affa6c.chunk.js": "/suchi-foams-website/static/js/453.60affa6c.chunk.js",
-    "static/media/suchi-foam-logo.png": "/suchi-foams-website/static/media/suchi-foam-logo.ba19f22362284d90593c.png",
+    "main.css": "/suchi-foams-website/static/css/main.f855e6bc.css",
+    "main.js": "/suchi-foams-website/static/js/main.9da961b2.js",
+    "static/js/453.cbe45815.chunk.js": "/suchi-foams-website/static/js/453.cbe45815.chunk.js",
+    "static/media/logo.svg": "/suchi-foams-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/suchi-foams-website/index.html",
-    "main.66715720.css.map": "/suchi-foams-website/static/css/main.66715720.css.map",
-    "main.fa05b10c.js.map": "/suchi-foams-website/static/js/main.fa05b10c.js.map",
-    "453.60affa6c.chunk.js.map": "/suchi-foams-website/static/js/453.60affa6c.chunk.js.map"
+    "main.f855e6bc.css.map": "/suchi-foams-website/static/css/main.f855e6bc.css.map",
+    "main.9da961b2.js.map": "/suchi-foams-website/static/js/main.9da961b2.js.map",
+    "453.cbe45815.chunk.js.map": "/suchi-foams-website/static/js/453.cbe45815.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66715720.css",
-    "static/js/main.fa05b10c.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9da961b2.js"
   ]
 }
